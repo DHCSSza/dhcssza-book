@@ -11,7 +11,7 @@ link-citations: yes
 colorlinks: yes
 graphics: yes
 cover-image: images/cover.png
-github-repo: escalator/dhcssza-book
+github-repo: DHCSSza/dhcssza-book
 description: "This book is written by and for the South African community of researchers, students, academic staff, and citizens interested in digital and computational practices in Humanities and Social Sciences."
 ---
 ```{r index-1, echo=FALSE}

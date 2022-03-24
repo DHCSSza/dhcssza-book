@@ -3,7 +3,7 @@
     "path": "~/Documents/SADiLaR/dhcssza-book/dhcssza-book/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "483257943",
     "contents": "",
     "dirty": false,
     "created": 1647949549602.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,35",
+        "cursorPosition": "13,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648112134,
+    "lastKnownWriteTime": 1648115111,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648112134845,
+    "last_content_update": 1648115111754,
     "read_only": false,
     "read_only_alternatives": []
 }
