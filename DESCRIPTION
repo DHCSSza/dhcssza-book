@@ -1,0 +1,6 @@
+Package: dhcssza-book
+Type: Book
+Title: The Big Book of Digital Humanities and Computational Social Sciences in South Africa
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown
